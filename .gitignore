@@ -1,0 +1,17 @@
+
+# Compilación de Visual Studio
+**/bin/
+**/obj/
+.vs/
+
+# Archivos temporales del ETL
+**/Staging/*.csv
+**/Staging/*.json
+
+# Configuración local y secretos
+**/appsettings.Development.json
+**/secrets.json
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
